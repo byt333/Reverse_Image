@@ -22,7 +22,8 @@ Instructions: right click on image -> select Google Lens option; or download/scr
 
 # Task E
 
-![image](https://github.com/user-attachments/assets/70d8eda2-d9d4-48e2-a6eb-969d235b1193)
+![image](https://github.com/user-attachments/assets/01c89b69-3ffc-4948-910c-d9990db691a6)
+
 
 
 
