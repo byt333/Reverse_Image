@@ -1,7 +1,7 @@
 # Reverse Search Task
 Please reverse search the below images with Google Lens. 
 
-Note down the location of the place that is shown. Ask questions if you get stuck. 
+Note the location of the place that is shown. Ask questions if you get stuck. 
 
 Instructions: right click on image -> select Google Lens option; or download/screenshot the image and upload to Google Images https://www.google.com/:
 
