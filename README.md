@@ -5,6 +5,8 @@ Note the location of the place that is shown. Ask questions if you get stuck.
 
 Instructions: right click on image -> select Google Lens option; or download/screenshot the image and upload to Google Images https://www.google.com/:
 
+EXAMPLE (not a task):
+
 ![image](https://github.com/user-attachments/assets/97de75a2-6fd6-424b-aba9-9e01a601fbe8)
 
 
