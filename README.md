@@ -30,6 +30,10 @@ Instructions: right click on image -> select Google Lens option; or download/scr
 
 ![image](https://github.com/user-attachments/assets/01c89b69-3ffc-4948-910c-d9990db691a6)
 
+# Task F 
+
+![image](https://github.com/user-attachments/assets/d29fdee6-3332-46d9-8fd1-5cb943530376)
+
 
 
 
