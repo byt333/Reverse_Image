@@ -5,16 +5,13 @@ Note the location of the place that is shown. Ask questions if you get stuck.
 
 Instructions: right click on image -> select Google Lens option; or download/screenshot the image and upload to Google Images https://www.google.com/:
 
-**EXAMPLE (not a task):**
+# EXAMPLE: 
+![image](https://github.com/user-attachments/assets/c0b1f6a4-c30b-47ae-937c-afc7da02dbab)
 
-![image](https://github.com/user-attachments/assets/97de75a2-6fd6-424b-aba9-9e01a601fbe8)
-
-
-![image](https://github.com/user-attachments/assets/17712992-0040-4dd3-8e9a-72ef3f3971bb)
 
 # Task A
 
-![image](https://github.com/user-attachments/assets/04c69b63-e2bd-420c-90ce-6c413680a41b)
+![image](https://github.com/user-attachments/assets/235d57ba-6df3-4ca9-80cf-43d9949155e2)
 
 # Task B
 
